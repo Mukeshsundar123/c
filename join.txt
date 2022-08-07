@@ -1,0 +1,6 @@
+var treat = "Raja"
+var name = "sekar"
+
+// using the append() method
+greet.append(name)
+print(greet)
